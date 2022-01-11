@@ -10,9 +10,10 @@
 ⚠ Please do not use the same percentages to avoid bugs! 
 
 
-⚠ ⬇ All Permissions ⬇ ⚠
 luckyblock.admin
+
 luckyblock.vip (for vip)
+
 
 ⬇ FEATURES ⬇
 
